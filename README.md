@@ -1,5 +1,7 @@
 # nginx
 
+vi /etc/nginx/nginx.conf
+
 cat /proc/cpuinfo
 
 centos base image .
